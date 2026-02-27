@@ -1,0 +1,9 @@
+com\luan\factorymanager\entity\Product.class
+com\luan\factorymanager\repository\ProductRepository.class
+com\luan\factorymanager\service\ProductionService.class
+com\luan\factorymanager\controller\ProductController.class
+com\luan\factorymanager\FactoryManagerApplication.class
+com\luan\factorymanager\controller\ProductionController.class
+com\luan\factorymanager\repository\RawMaterialRepository.class
+com\luan\factorymanager\controller\RawMaterialController.class
+com\luan\factorymanager\entity\RawMaterial.class
